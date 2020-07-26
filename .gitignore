@@ -1,2 +1,9 @@
 .vscode/
 venv/
+.idea/
+
+#database
+db.sqlite3
+
+#migreation
+blog/migrations/
